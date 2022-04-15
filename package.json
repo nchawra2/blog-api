@@ -1,7 +1,7 @@
 {
   "name": "blog-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "cd",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
